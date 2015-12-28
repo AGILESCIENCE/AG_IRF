@@ -4,7 +4,7 @@
 # You can override the install prefix with the command:
 #   make prefix="/my/install/path"
 
-prefix=$(HOME)/ADC
+prefix=$(AGILE)
 
 all: install
 
